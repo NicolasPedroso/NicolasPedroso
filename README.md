@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ricardobacano&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="ricardo" />
+  <img src="https://komarev.com/ghpvc/?username=NicolasPedroso&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="ricardo" />
 </p>
 
 <h2 align="center">Sobre Mim</h2>
